@@ -13,10 +13,12 @@ function Banner() {
             <h1 class="text-2xl font-bold">Hi,I am</h1>
             <h1 class="text-4xl font-bold">Afsana Ara Bristy</h1>
             <p class="py-6">Web Developer</p>
-            <a href="https://drive.google.com/file/d/1W2DXEX3jOlRLeuj3UCJnIsNEGdlTVKMW/view" target="_blank">
-            <button class="btn btn-primary">Download Resume</button>
+            <a
+              href="https://drive.google.com/file/d/1GZKIUYXwn7GEFVw1eOc0WRu636K4gRRN/view?usp=sharing"
+              target="_blank"
+            >
+              <button class="btn btn-primary">Download Resume</button>
             </a>
-            
           </div>
         </div>
       </div>
